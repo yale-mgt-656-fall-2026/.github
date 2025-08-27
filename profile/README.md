@@ -12,15 +12,15 @@ at the Yale School of Management in Fall 2025.
 | 🎓&nbsp;Course number           | MGT656                                                                    |
 | 📚&nbsp;Units                  | 4 units in Yale College and equivalent elsewhere                          |
 | 👥&nbsp;Enrollment             | Open to any student at Yale  (SOM students using bidding system)                            |
-| 🕓&nbsp;Meeting Time | Mon/Wed 2:40 PM-4:00 PM EST  |
-| 🏫&nbsp;Meeting Location | 2200 [Evans Hall](https://map.yale.edu/?id=1910#!m/560094) |
+| 🕓&nbsp;Meeting Time | Mon/Wed 10:10 PM-11:30 PM EST  |
+| 🏫&nbsp;Meeting Location | 2400 [Evans Hall](https://map.yale.edu/?id=1910#!m/560094) |
 | 💻&nbsp;Zoom link       | No zoom  🙁                                    |
 | 📅&nbsp;Calendar | [Yale SOM Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar) |
-| 🌐&nbsp;Website         | https://www.656.mba (down sometimes until class begins; requires Yale VPN)                  |
+| 🌐&nbsp;Website         | https://www.656.mba                 |
 | 💬&nbsp;Discussions | https://github.com/orgs/yale-mgt-656-fall-2025/discussions |
 | 👨‍🏫Faculty                 | Kyle Jensen |
-| 🧑‍🎓TAs                     | Joaquin Pujol, Brianna Hoelting |
-| 🤒&nbsp;Excused absences        | http://files.656.mba/absent |
+| 🧑‍🎓TAs                     | [Leah Messina](https://www.linkedin.com/in/leah-messina/) |
+| 🤒&nbsp;Excused absences        | https://forms.office.com/r/7CH4zDK38G |
 
 
 
@@ -44,7 +44,7 @@ entreaties.
 There is no textbook for the course. Readings will be posted on the
 [class website](https://www.656.mba).
 
-## Diversity, equity, inclusion and their opposites
+## Inclusiveness and such
 
 This class will be an inclusive environment. If you see behavior
 that you feel is discriminatory, _particularly_ from the professor
@@ -88,8 +88,7 @@ Feel free to send an email if these times do not work for you.
 | Person          | Email | Hours            | Location/URL                                                                |
 | --------------- | ----- | ----------- | ----------------------------------------------------------------------- |
 | Kyle Jensen     | kyle.jensen@yale.edu | TBD | TDB |
-| Joaquin Pujol   | joaquin.pujol@yale.edu | Monday 4.15pm - 5.15pm | L400 Evans (Startup Suite) |
-| Brianna Hoelting | brianna.hoelting@yale.edu | Wednesday 1pm - 2pm | L400 Evans (Startup Suite) |
+| Leah Messina | leah.messina@yale.edu | TBD | TBD |
 
 ## Course Philosophy
 
@@ -124,6 +123,10 @@ the course with the following values.
   nodejs, python, and ruby for web application development. Like all
   languages, it is imperfect. It's a reasonable choice for this course.
 
+- **We will use agentic AI**. Uh...this is new. We have to do it. I expect
+  that you will all be using agentic AI coding assistants for your class
+  projects. As such, I'm going to expect a lot.
+
 These are bold goals and challenging to accomplish in the brief time allotted
 to us. Our greatest concern is that the technology component will be a barrier
 for some students. To ensure that this is not the case, we will record numerous
@@ -140,6 +143,8 @@ hands-on, and minimally frustrating.
 For homework,
 you should be using AI assistants such at GitHub Copilot
 (best for writing code) or ChatGPT/Claude/Llama/etc.
+Really you should be using **agentic** AI assistants. We'll discuss
+what that is.
 I ask that you not *copy* from other humans, but I hope you'll
 enlist the aid of other humans through media
 such as StackOverflow or our [class
@@ -233,6 +238,7 @@ to a cloud platform like [Render](https://render.com/),
 [Google Cloud](https://cloud.google.com/). (I believe it is fair to say
 that most students were happy with Render last semester. Heroku is nice
 but now lacks a free tier.)
+
 
 
 You must submit  some information about each of the assignments through the class website.
