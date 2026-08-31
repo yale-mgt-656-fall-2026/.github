@@ -105,7 +105,8 @@ If you are interested in software and technology, we think this
 will be one of the best courses you take at Yale. We designed
 the course with the following values.
 
-- **You will actually write code**. If you are going to manage developers,
+- **You will actually write code**. Well...I mean, I assume your agent
+  will write code. If you are going to manage developers (human or AI),
   you need to understand what it is like to write code. You need to
   speak their language, understand their struggles, understand how tech
   products are built, and understand some fundamentals of computer science.
@@ -149,17 +150,11 @@ hands-on, and minimally frustrating.
 
 ## Use of AI assistants, human assistants, and the honor code
 
-For homework,
-you should be using AI assistants such at GitHub Copilot
-(best for writing code) or ChatGPT/Claude/Llama/etc.
-Really you should be using **agentic** AI assistants. We'll discuss
-what that is.
-I ask that you not *copy* from other humans, but I hope you'll
-enlist the aid of other humans through media
-such as StackOverflow or our [class
-discussion/qa](https://github.com/orgs/yale-mgt-656-fall-2026/discussions)
-and your Yale colleagues. Given such
-parameters, what do I think would constitute a violation of the
+For homework and the project
+you should likely be using some kind of AI like ChatGPT/Claude/Qwen/GLM/Grok/etc., though, the homework can be done by hand too.
+Quizzes and exams are your brain alone — no assistance from humans
+or AIs.
+What do I think would constitute a violation of the
 honor code? I can think of a few things: 1) blatant copying,
 particularly in serial; 2) wide spread dissemination  of answers
 to quizzes or homework assignments; 3) copying from a human in
