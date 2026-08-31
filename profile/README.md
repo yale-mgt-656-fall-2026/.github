@@ -5,11 +5,11 @@ Hello 👋👋! This is the "about" page for
 at the Yale School of Management in Fall 2026.
 
 <!--
-  PER-TERM: meeting time, location and TAs were updated for Fall 2026 on
-  2026-08-31 against fixtures/meetings.yaml and the roster. Still unverified:
-  the excused-absence form link below is the one from Fall 2025 and nobody has
-  confirmed it still points at a live form for this term. This file renders as
-  the public org profile, so check it before pushing.
+  PER-TERM: meeting time, location, TAs, grading percentages and the
+  excused-absence form were all updated for Fall 2026 on 2026-08-31, against
+  fixtures/meetings.yaml, the roster, and the points actually loaded into the
+  platform. Every link was checked. This file renders as the public org
+  profile, so check it before pushing.
 -->
 
 ## Overview
@@ -28,7 +28,7 @@ at the Yale School of Management in Fall 2026.
 | 💬&nbsp;Discussions | https://github.com/orgs/yale-mgt-656-fall-2026/discussions |
 | 👨‍🏫Faculty                 | Kyle Jensen |
 | 🧑‍🎓TAs                     | Isiah Udofia, Audrey Umurerwa Gatera |
-| 🤒&nbsp;Excused absences        | https://forms.office.com/r/7CH4zDK38G |
+| 🤒&nbsp;Excused absences        | https://forms.cloud.microsoft/r/sBDRUj2aXg |
 
 
 
