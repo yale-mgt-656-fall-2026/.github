@@ -2,7 +2,15 @@
 
 Hello 👋👋! This is the "about" page for
 [MGT656 "Management of Software Development"](https://656.mba)
-at the Yale School of Management in Fall 2025.
+at the Yale School of Management in Fall 2026.
+
+<!--
+  PER-TERM: meeting time, location and TAs were updated for Fall 2026 on
+  2026-08-31 against fixtures/meetings.yaml and the roster. Still unverified:
+  the excused-absence form link below is the one from Fall 2025 and nobody has
+  confirmed it still points at a live form for this term. This file renders as
+  the public org profile, so check it before pushing.
+-->
 
 ## Overview
 
@@ -12,14 +20,14 @@ at the Yale School of Management in Fall 2025.
 | 🎓&nbsp;Course number           | MGT656                                                                    |
 | 📚&nbsp;Units                  | 4 units in Yale College and equivalent elsewhere                          |
 | 👥&nbsp;Enrollment             | Open to any student at Yale  (SOM students using bidding system)                            |
-| 🕓&nbsp;Meeting Time | Mon/Wed 10:10 PM-11:30 PM EST  |
+| 🕓&nbsp;Meeting Time | Mon/Wed 1:00-2:20 PM Eastern  |
 | 🏫&nbsp;Meeting Location | 2400 [Evans Hall](https://map.yale.edu/?id=1910#!m/560094) |
 | 💻&nbsp;Zoom link       | No zoom  🙁                                    |
 | 📅&nbsp;Calendar | [Yale SOM Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar) |
 | 🌐&nbsp;Website         | https://www.656.mba                 |
-| 💬&nbsp;Discussions | https://github.com/orgs/yale-mgt-656-fall-2025/discussions |
+| 💬&nbsp;Discussions | https://github.com/orgs/yale-mgt-656-fall-2026/discussions |
 | 👨‍🏫Faculty                 | Kyle Jensen |
-| 🧑‍🎓TAs                     | [Leah Messina](https://www.linkedin.com/in/leah-messina/) |
+| 🧑‍🎓TAs                     | Isiah Udofia, Audrey Umurerwa Gatera |
 | 🤒&nbsp;Excused absences        | https://forms.office.com/r/7CH4zDK38G |
 
 
@@ -56,7 +64,7 @@ more of the following resources.
   Sexual Harassment and Assault Response & Education (SHARE)](https://sharecenter.yale.edu/)
 - Diane Temple in SOM Human Resources and Sheri Scully in the SOM AASL.
 - [Yale Title IX Coordinators](https://provost.yale.edu/title-ix/coordinators) (SOM’s Title IX Coordinator is Rebecca Udler)
-- [Yale's Live Safe App](https://your.yale.edu/community/public-safety/campus-safety-services/livesafe-app)
+- [Yale's Live Safe App](https://your.yale.edu/campus-essentials/community-safety/livesafe-app)
 - [Office for Equal Opportunity Programs](https://equalopportunity.yale.edu/)
 
 ## Special needs
@@ -74,7 +82,7 @@ for more information.
 ## Office hours
 
 Your first stop for help should be the
-[classroom discussion](https://github.com/orgs/yale-mgt-656-fall-2025/discussions)
+[classroom discussion](https://github.com/orgs/yale-mgt-656-fall-2026/discussions)
 on GitHub. Please only email if you need private help.
 And, please email the TAs before the instructor. (Thanks!)
 
@@ -88,7 +96,8 @@ Feel free to send an email if these times do not work for you.
 | Person          | Email | Hours            | Location/URL                                                                |
 | --------------- | ----- | ----------- | ----------------------------------------------------------------------- |
 | Kyle Jensen     | kyle.jensen@yale.edu | TBD | TDB |
-| Leah Messina | leah.messina@yale.edu | TBD | TBD |
+| Isiah Udofia | isiah.udofia@yale.edu | TBD | TBD |
+| Audrey Umurerwa Gatera | audrey.gatera@yale.edu | TBD | TBD |
 
 ## Course Philosophy
 
@@ -148,7 +157,7 @@ what that is.
 I ask that you not *copy* from other humans, but I hope you'll
 enlist the aid of other humans through media
 such as StackOverflow or our [class
-discussion/qa](https://github.com/orgs/yale-mgt-656-fall-2025/discussions)
+discussion/qa](https://github.com/orgs/yale-mgt-656-fall-2026/discussions)
 and your Yale colleagues. Given such
 parameters, what do I think would constitute a violation of the
 honor code? I can think of a few things: 1) blatant copying,
@@ -195,12 +204,15 @@ common change I make is dropping assignments.)
 
 | Component       | Percentage            |
 | --------------- | ---------------- |
-| Homework     | 20% |
-| Quizzes   | 15% |
-| Exam-1 | 20% |
-| Exam-2 | 20% |
-| Group Project | 20% |
-| Participation   | 5% |
+| Exam-1 | 24% |
+| Exam-2 | 24% |
+| Quizzes   | 22% |
+| Homework and group project | 24% |
+| Participation   | 6% |
+
+The homework share is split evenly between the individual assignments and the
+team project. There is a quiz at the start of nearly every class meeting, which
+is why they add up to as much as an exam.
 
 The ethics of counting participation in the grade are a bit dubious 🙁.
 But, I'm including it for consequentialist reasons: your participation makes
